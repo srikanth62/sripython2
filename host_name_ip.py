@@ -1,4 +1,7 @@
 # Display the hostname and IP
+#gethostname() : The gethostname function retrieves the standard host name for the local computer.
+#gethostbyname() : The gethostbyname function retrieves host information corresponding to a host name from a host database.
+
 import socket 
 
 def get_host_name_IP():
